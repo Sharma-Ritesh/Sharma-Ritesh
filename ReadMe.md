@@ -12,11 +12,11 @@ I'm a **Junior Software Engineer** currently working at **Tietoevry Fintech**. P
 - **Messaging & Streaming:** Kafka Streaming
 
 ## 🌱 What I'm Learning
-Currently, I'm expanding my expertise in **AWS DevOps, cloud deployments, and machine learning** to stay ahead in the tech industry.
+Currently, I'm expanding my expertise in **AWS DevOps, cloud deployments, and Java Developer** to stay ahead in the tech industry.
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritesh--sharma-blue?logo=linkedin)](https://www.linkedin.com/in/ritesh-sharma-718231193/)  
-📧 riteshs.sharma@gmail.com  
+📧 riteshys.sharma@gmail.com  
 📍 Nagpur, India
 
 ## ⚡ Fun Fact
